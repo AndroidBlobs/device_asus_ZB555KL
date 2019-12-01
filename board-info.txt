@@ -1,0 +1,2 @@
+require version-baseband=3.0-00398-8937_GENNS_PACK-1.167479.0.171473.1
+require version-vendor=1562861750
